@@ -46,6 +46,7 @@ p{
 .foto{
   height: 100%;
   width: 100%;
+  display: block;
 }
 
 .logo{
@@ -63,13 +64,13 @@ li{
 .portfolio{
   padding: 10px 0;
   text-align: center;
-  width: 300px;
+  width: 100%;
   border-top: solid;
   border-color: #3f464d;
 }
 
 .facebook,.twitter{
-  width: 150px;
+  width: 50%;
   padding: 10px 30px;
   border-top: solid;
   border-color: #3f464d;
